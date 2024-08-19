@@ -1,0 +1,97 @@
+@font-face {
+    font-family: "Satoshi-Variable";
+    src: url("../fonts/Satoshi-Variable.woff2") format("woff2"),
+        url("../fonts/Satoshi-Variable.woff") format("woff"),
+        url("../fonts/Satoshi-Variable.ttf") format("truetype");
+    font-weight: 300 900;
+    font-display: swap;
+    font-style: normal;
+}
+
+body {
+    font-family: "Satoshi-Variable" !important;
+
+    font-weight: 600;
+    font-size: medium;
+}
+
+.navbar-brand {
+    font-weight: bold !important;
+    font-size: 24px;
+}
+
+
+
+.hero h1 {
+    font-size: 36px !important;
+}
+
+
+.experience .bg-light {
+    font-size: 70px;
+    width: 90px;
+    height: 90px;
+    line-height: 30px;
+    border-radius: 50%;
+
+}
+
+.experience p {
+    font-size: 14px !important;
+}
+
+.navbar-nav {
+    margin: auto;
+}
+
+.btn {
+    border-radius: 50px;
+    color: #fff;
+}
+
+.span {
+    font-size: larger;
+    font-weight: 700;
+}
+
+.badge-1 {
+    border-radius: 50px !important;
+    background-color: whitesmoke;
+
+
+
+}
+
+.badge-2 {
+    border-radius: 50px !important;
+    background-color: whitesmoke;
+
+
+}
+
+.logo {
+    font-size: 55px !important;
+    width: 80px;
+    height: 80px;
+    line-height: 40px;
+    border-radius: 50%;
+}
+
+.display-4 {
+    margin-top: 100px !important;
+}
+
+.bgGlow{
+    background: url('ttt.png') no-repeat center 5px;
+    background-size: contain;
+    text-align: center;
+    margin-top: 100px;
+
+
+}
+.amir{
+    position: relative;
+    z-index: 2;
+    width: 300px;
+    margin: auto;
+}
